@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-03-22T02:30:10.043Z</updated>
+  <updated>2024-03-22T03:36:54.981Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,40 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://example.com/posts/0.html"/>
+    <id>http://example.com/posts/0.html</id>
+    <published>2024-03-22T03:41:07.089Z</published>
+    <updated>2024-03-22T03:36:54.981Z</updated>
+    
+    <content type="html"><![CDATA[<p>hello 这里是御坂sama的第一个博客，这也是一个测试的博客</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;hello 这里是御坂sama的第一个博客，这也是一个测试的博客&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>a</title>
+    <link href="http://example.com/posts/e8b7be43.html"/>
+    <id>http://example.com/posts/e8b7be43.html</id>
+    <published>2024-03-22T03:40:31.000Z</published>
+    <updated>2024-03-22T03:40:31.084Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
