@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title></title>
-      <link href="/posts/0.html"/>
-      <url>/posts/0.html</url>
+      <title>a</title>
+      <link href="/posts/e8b7be43.html"/>
+      <url>/posts/e8b7be43.html</url>
       
-        <content type="html"><![CDATA[<hr><p>title: 我就是标题<br>date: 2021-09-25 23:32:04<br>comments: true #是否可评论<br>layout: post # 公开文章<br>toc: true #是否显示文章目录<br>tags:   #标签 </p><ul><li>我就是新的标签1</li><li>老子是新的标签2</li></ul><hr><p>hello 这里是御坂sama的第一个博客，这也是一个测试的博客</p>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
       
       
@@ -17,11 +17,11 @@
     
     
     <entry>
-      <title>a</title>
+      <title></title>
       <link href="/posts/e8b7be43.html"/>
       <url>/posts/e8b7be43.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>hello 这里是御坂sama的第一个博客，这也是一个测试的博客</p>]]></content>
       
       
       
